@@ -29,6 +29,6 @@
 
 ## if you modify the data file
 - dvc add data/People_data_229MB.csv 
-- git add data/People_data_229MB.csv.dvc data/.gitignore
 - dvc push
+- git add data/People_data_229MB.csv.dvc data/.gitignore
 - git commit -m "Editted raw csv file"
