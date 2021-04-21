@@ -25,3 +25,10 @@
 
 ## if your team mates make changes to the data
 - dvc pull
+
+
+## if you modify the data file
+- dvc add data/People_data_229MB.csv 
+- git add data/People_data_229MB.csv.dvc data/.gitignore
+- dvc push
+- git commit -m "Editted raw csv file"
