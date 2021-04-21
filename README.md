@@ -32,3 +32,10 @@
 - dvc push
 - git add data/People_data_229MB.csv.dvc data/.gitignore
 - git commit -m "Editted raw csv file"
+
+
+## if you modify the data file (short cut, dvc commit will auto detect all data files changes)
+- dvc commit   
+- dvc push
+- git add data/People_data_229MB.csv.dvc data/.gitignore
+- git commit -m "Editted raw csv file"
