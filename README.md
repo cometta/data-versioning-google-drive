@@ -18,7 +18,7 @@
                            gdrive://1_xf7TNOVQxFlI7eV7jOeqbvAsDYt2D8Q
 
 
-## push files into Google drive
+## push files into Google drive  (it will ask for token for the first time, copy the link and put on the browser)
 - dvc push
 
 
