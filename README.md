@@ -12,7 +12,7 @@
 - git commit -m "Add raw csv file"
 
 
-## Add Google drive
+## Add Google drive (one time only on your project folder)
 - go to google drive create a empty folder and give it a name for example "dvc_test" , the the id of the Google Drive folder
 - dvc remote add --default myremote \
                            gdrive://1_xf7TNOVQxFlI7eV7jOeqbvAsDYt2D8Q
