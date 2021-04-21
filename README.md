@@ -3,7 +3,7 @@
 ## Preparation 
 - install DVC cli and git cli
 
-## Setup (one time only on your project folder)
+## Setup (one time only on your project folder - this will create .dvc folder)
 - dvc init
 
 ## Add data file to track
